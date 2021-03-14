@@ -1,0 +1,28 @@
+.info_title {
+    text-align: center;
+}
+
+
+
+.user_info td{
+    padding: 50px;
+    text-align: center;
+}
+
+.user_info table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hover-2 {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.hover_data:hover {
+    background-color:  #85929E;
+}
+
+.hover-2:hover {
+    background-color:  #DAF7A6;  
+}

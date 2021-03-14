@@ -1,0 +1,37 @@
+body {
+    background-color: grey;
+}
+
+.header_div {
+    background-color: #2BE4DF;
+    margin: auto;
+    width: 100%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.header_div h1 {
+    text-align: center;
+    color: black;
+}
+  
+.container table,tr,td {
+    color:black ;
+    margin-top: 20px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #2BE4DF ;
+}
+
+.container input[type=submit] {
+    background-color: #3CBC8D;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
+
+.container input[type=text], input[type=password] {
+    width: 250px;
+    height: 50px;
+}
